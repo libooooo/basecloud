@@ -1,1 +1,4 @@
 version:1.0
+redis:
+  ip: xxx.xxx.xxx.xxx
+  port: xxx
