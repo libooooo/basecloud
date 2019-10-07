@@ -1,4 +1,4 @@
 version: 1.0
 redis:
-  ip: 10.60.89.102
+  ip: 10.60.89.102 #yq01-adu-pool-4c-00008.epc
   port: 8379
